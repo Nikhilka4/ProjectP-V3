@@ -17,7 +17,7 @@ const Navbar = (props: Props) => {
           <Image src={logoImg} alt="PRANAVI PEB CONSTRUCTION" width={150} height={60} />
         </div>
         <Button  variant="primary">
-          Book Appointment
+          Book an appointment
         </Button>
       </div>
     </div>
