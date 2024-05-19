@@ -1,7 +1,7 @@
 import Features from "@/pages/components/Features";
 import Hero from "@/pages/components/Hero";
 import Navbar from "@/pages/components/Navbar";
-
+import Services from "@/pages/components/Services";
 
 export default function Home() {
   return (
@@ -9,6 +9,7 @@ export default function Home() {
       <Navbar />
       <Hero />
       <Features />
+      <Services />
     </div>
   );
 }
